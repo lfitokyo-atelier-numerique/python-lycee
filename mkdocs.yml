@@ -21,7 +21,7 @@ extra:
   version:
     provider: mike
     
-repo_url: https://github.com/nuitducode/DOCUMENTATION
+repo_url: https://github.com/lfitokyo-ateliernumerique/python-lycee
 edit_uri: ""
 
 markdown_extensions:
