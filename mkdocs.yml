@@ -1,10 +1,10 @@
-site_name: DOCUMENTATION, RESSOURCES et TUTORIELS
+site_name: PYTHON LYCÉE
 theme:
   name: material
   custom_dir: docs/overrides
   language: fr
-  favicon: https://www.nuitducode.net/img/favicon.svg
-  logo: https://www.nuitducode.net/img/favicon.svg
+  favicon: https://avatars.githubusercontent.com/u/83107633
+  logo: https://avatars.githubusercontent.com/u/83107633
   palette:
     primary: white
     accent: light blue
